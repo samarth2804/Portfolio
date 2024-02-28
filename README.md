@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# My Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio website! This project showcases my skills and projects in web development.
+The live link can be found <a href="https://velocity-estate.onrender.com/" target="_blank" rel="noopener">here</a>.
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This portfolio website serves as a platform to present my professional profile, projects, and skills to potential employers, collaborators, and anyone interested in learning about my work. It is built using React.js, JavaScript, CSS, and HTML, with state management handled by Redux.
 
-### `yarn start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Homepage**: Introduces visitors to who I am and what I do, with links to other sections.
+- **Projects Section**: Showcases my projects with brief descriptions, images, and links to live demos or GitHub repositories.
+- **Skills Section**: Highlights my technical skills and areas of expertise.
+- **Contact Section**: Provides contact information and links to my social media profiles.
+- **Responsive Design**: Ensures a seamless experience across various devices and screen sizes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `yarn test`
+- **React.js**: Used for building the frontend components and managing the application's UI.
+- **JavaScript**: Programming language used for client-side scripting and interactivity.
+- **CSS**: Stylesheets used for styling the website and enhancing its visual appeal.
+- **HTML**: Markup language used for structuring the content of the website.
+- **Redux**: State management library used for managing application state and data flow.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `yarn build`
+1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
+2. Navigate to the project directory: `cd portfolio`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open http://localhost:3000 in your browser to view the website.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Author
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Made with ❤️ by <b>Samarth Verma</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px"> Get in touch!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[LINKEDIN](https://www.linkedin.com/in/samarth2804/)
 
-### `yarn eject`
+# Screenshot
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="./client/public/cover.jpeg">
