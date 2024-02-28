@@ -1,7 +1,7 @@
 # My Portfolio Website
 
 Welcome to my portfolio website! This project showcases my skills and projects in web development.
-The live link can be found <a href="https://velocity-estate.onrender.com/" target="_blank" rel="noopener">here</a>.
+The live link can be found <a href="https://samarth-portfolio.onrender.com/" target="_blank" rel="noopener">here</a>.
 
 ## Description
 
@@ -39,6 +39,6 @@ Made with ❤️ by <b>Samarth Verma</b> <img src="https://raw.githubusercontent
 
 # Screenshot
 
-<img src="./client/public/cover.jpeg">
+<img src="./public/cover.jpeg">
 
 
