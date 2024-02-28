@@ -1,8 +1,8 @@
 .works {
-  padding: 0 3rem 0 3rem;
+  padding: 0 1.4rem 0 1.4rem;
   display: flex;
   height: 90vh;
-  margin-top: 4rem;
+  margin-top: 3rem;
 
   /* scroll */
   align-items: center;
