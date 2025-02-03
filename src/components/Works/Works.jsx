@@ -50,21 +50,21 @@ const Works = () => {
           className="w-mainCircle"
         >
           <div className="project w-secCircle">
-            <a href="https://github.com/samarth2804/Velocity-Estate" target="_blank">
-            Velocity Estate
-            </a>
+          <a href="https://github.com/samarth2804/Scalable-E-Pharmacy-Platform-with-Microservices-Integration" target="_blank"> &nbsp; E-Pharmacy &nbsp; App </a>
           </div>
           <div className="project w-secCircle">
-          <a href="https://github.com/samarth2804/NewsHub" target="_blank"> &nbsp; NewsHub &nbsp; App </a>
+          <a href="https://github.com/samarth2804/AI-ChatBot" target="_blank" > &nbsp; &nbsp; &nbsp; &nbsp; AI &nbsp; &nbsp; &nbsp; &nbsp; Chat Bot </a>    
           </div>
           <div style={{background: "#1949b8", color: "white" }} className="project w-secCircle">
-            <a href="https://github.com/samarth2804/AI-ChatBot" target="_blank" > &nbsp; &nbsp; &nbsp; &nbsp; AI &nbsp; &nbsp; &nbsp; &nbsp; Chat Bot </a>    
+          <a href="https://github.com/samarth2804/Log-Ingestor-and-Query-Interface" target="_blank">
+            Log Ingestor
+          </a>
           </div>{" "}
           <div className="project w-secCircle">
-            <a href="https://github.com/samarth2804/Text-Utils" target="_blank">Text-Utils</a>
+            <a href="https://github.com/samarth2804/AI-Enhanced-Database-Interaction-Tool" target="_blank">Query Generator & Analyzer</a>
           </div>
           <div className="project w-secCircle">
-            <a href="https://github.com/samarth2804/Online-Library-Website" target="_blank"> &nbsp; &nbsp;Library &nbsp; &nbsp; App</a>
+            <a href="https://github.com/samarth2804/Velocity-Estate" target="_blank"> &nbsp; &nbsp;Velocity &nbsp; &nbsp; Estate</a>
           </div>
         </motion.div>
         {/* background Circles */}

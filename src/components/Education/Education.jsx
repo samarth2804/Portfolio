@@ -16,7 +16,7 @@ const Education = () => {
       img: profilePic1,
       review:
         "NIT Meghalaya ECE'24",
-      score:"CGPA : 9.4 / 10"
+      score:"CGPA : 9.45 / 10"
     },
     {
       img: profilePic2,

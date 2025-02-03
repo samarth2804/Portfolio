@@ -29,9 +29,9 @@ const Services = () => {
         <span id="description">
           Enthusiastic Developer
           <br />
-          Having experience in frontend and backend
+          Having experience in frontend and backend tech stacks
         </span>
-        <a href="https://drive.google.com/file/d/1euSTP0zsQxpyA3QqhG9TN4Op72vgmyCR/view?usp=sharing" target="_blank" rel="noreferrer">
+        <a href="https://drive.google.com/file/d/14VoCYDVkIV2vDXdEXlLnw3RbwFhQ0lVG/view?usp=drive_link" target="_blank" rel="noreferrer">
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
@@ -46,8 +46,8 @@ const Services = () => {
         >
           <Card
             emoji={HeartEmoji}
-            heading={"Programming"}
-            detail={"C/C++, OOPs, DSA"}
+            heading={"Languages & Databases"}
+            detail={"Java, Python, C/C++, JavaScript, MySQL, PostgreSQL, MongoDB, Redis"}
           />
         </motion.div>
         {/* second card */}
@@ -58,8 +58,8 @@ const Services = () => {
         >
           <Card
             emoji={Glasses}
-            heading={"Web Development"}
-            detail={"JavaScript, TypeScript, ExpressJS, NodeJS, ReactJS, Angular, Redux, MongoDB, Firebase, Tailwind CSS, Bootstrap, REST API, HTML, EJS"}
+            heading={"Framework & Libraries"}
+            detail={"Spring Boot, Hibernate ORM, Liquibase, J2EE, JUnit, Mockito, RESTful APIs, GraphQL, SOAP, gRPC, React.js, Redux, Bootstrap"}
           />
         </motion.div>
         {/* 3rd */}
@@ -70,9 +70,9 @@ const Services = () => {
         >
           <Card
             emoji={Humble}
-            heading={"More Skills"}
+            heading={"Tools & Technologies"}
             detail={
-              "AI and ML, Git/GitHub, Microservices, Software Engineering, Git/GitHub, Agile, Computer Network, Operating System, DBMS"
+              "Git/GitHub, Unix/Linux, Docker, Jenkins, Maven, IntelliJ IDEA, VS Code, Postman, Azure DevOps, AWS (EC2, S3, Lambda, DynamoDB), Apache Kafka, RabbitMQ"
             }
             color="rgba(252, 166, 31, 0.45)"
           />

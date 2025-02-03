@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hi! I Am</span>
           <span>Samarth Verma</span>
           <span>
-          Full-stack Web Developer and Competitive Programmer
+          Software Engineer specialising in Backend solutions & Microservices Architecture
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
